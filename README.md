@@ -2,7 +2,6 @@
 
 Link do strony - https://regal-maamoul-8d8a78.netlify.app/
 
-![BudEksperts Logo](https://via.placeholder.com/150x50/0F3460/FFFFFF?text=BudEksperts)
 
 ## O Projekcie
 

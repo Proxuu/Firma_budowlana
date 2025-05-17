@@ -87,28 +87,3 @@ src/
 
 4. Otwórz przeglądarkę pod adresem: `http://localhost:5173/`
 
-### Budowanie wersji produkcyjnej
-
-```bash
-npm run build
-# lub
-yarn build
-```
-
-Pliki produkcyjne zostaną wygenerowane w katalogu `dist/`.
-
-## Dostosowanie Treści
-
-Aby dostosować treść strony, możesz edytować pliki w katalogu `src/data/`, który zawiera:
-
-- `services.ts` - lista usług oferowanych przez firmę
-- `projects.ts` - realizacje firmy
-- `testimonials.ts` - opinie klientów
-
-## Licencja
-
-Ten projekt jest dostępny na licencji [MIT](LICENSE).
-
-## Kontakt
-
-BudEksperts - kontakt@budeksperts.pl
